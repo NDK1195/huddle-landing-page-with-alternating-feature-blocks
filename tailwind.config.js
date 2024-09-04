@@ -23,6 +23,10 @@ module.exports = {
         "very-dark-cyan": "hsl(192, 100%, 9%)",
         "grayish-blue": "hsl(208, 11%, 55%)",
       },
+      backgroundImage: {
+        "hero-mobile": "url('../images/bg-hero-mobile.svg')",
+        "hero-desktop": "url('../images/bg-hero-desktop.svg')",
+      },
     },
   },
   plugins: [],

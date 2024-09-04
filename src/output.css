@@ -557,3 +557,438 @@ video {
   --tw-contain-paint:  ;
   --tw-contain-style:  ;
 }
+
+.absolute{
+  position: absolute;
+}
+
+.relative{
+  position: relative;
+}
+
+.left-0{
+  left: 0px;
+}
+
+.top-0{
+  top: 0px;
+}
+
+.left-1\/2{
+  left: 50%;
+}
+
+.top-1\/2{
+  top: 50%;
+}
+
+.-z-10{
+  z-index: -10;
+}
+
+.z-10{
+  z-index: 10;
+}
+
+.z-0{
+  z-index: 0;
+}
+
+.z-20{
+  z-index: 20;
+}
+
+.mx-auto{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.mb-20{
+  margin-bottom: 5rem;
+}
+
+.mb-6{
+  margin-bottom: 1.5rem;
+}
+
+.mb-8{
+  margin-bottom: 2rem;
+}
+
+.mb-14{
+  margin-bottom: 3.5rem;
+}
+
+.flex{
+  display: flex;
+}
+
+.h-\[721px\]{
+  height: 721px;
+}
+
+.h-full{
+  height: 100%;
+}
+
+.w-\[104px\]{
+  width: 104px;
+}
+
+.w-full{
+  width: 100%;
+}
+
+.w-\[96px\]{
+  width: 96px;
+}
+
+.w-\[240px\]{
+  width: 240px;
+}
+
+.min-w-\[96px\]{
+  min-width: 96px;
+}
+
+.max-w-\[1270px\]{
+  max-width: 1270px;
+}
+
+.max-w-\[200px\]{
+  max-width: 200px;
+}
+
+.max-w-\[\]{
+  max-width: ;
+}
+
+.max-w-\[680px\]{
+  max-width: 680px;
+}
+
+.max-w-\[296px\]{
+  max-width: 296px;
+}
+
+.max-w-\[304px\]{
+  max-width: 304px;
+}
+
+.max-w-\[240px\]{
+  max-width: 240px;
+}
+
+.max-w-\[536px\]{
+  max-width: 536px;
+}
+
+.max-w-\[520px\]{
+  max-width: 520px;
+}
+
+.-translate-x-1\/2{
+  --tw-translate-x: -50%;
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+}
+
+.-translate-y-1\/2{
+  --tw-translate-y: -50%;
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+}
+
+.flex-row{
+  flex-direction: row;
+}
+
+.flex-col{
+  flex-direction: column;
+}
+
+.items-center{
+  align-items: center;
+}
+
+.justify-between{
+  justify-content: space-between;
+}
+
+.gap-14{
+  gap: 3.5rem;
+}
+
+.rounded-xl{
+  border-radius: 0.75rem;
+}
+
+.rounded-\[20px\]{
+  border-radius: 20px;
+}
+
+.bg-very-pale-cyan{
+  --tw-bg-opacity: 1;
+  background-color: hsl(193 100% 96% / var(--tw-bg-opacity));
+}
+
+.bg-white{
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+}
+
+.bg-pink{
+  --tw-bg-opacity: 1;
+  background-color: hsl(322 100% 66% / var(--tw-bg-opacity));
+}
+
+.bg-hero-mobile{
+  background-image: url('../images/bg-hero-mobile.svg');
+}
+
+.bg-cover{
+  background-size: cover;
+}
+
+.bg-contain{
+  background-size: contain;
+}
+
+.bg-center{
+  background-position: center;
+}
+
+.bg-no-repeat{
+  background-repeat: no-repeat;
+}
+
+.px-4{
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.py-\[6px\]{
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+
+.py-\[7px\]{
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+
+.px-6{
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
+.py-\[14px\]{
+  padding-top: 14px;
+  padding-bottom: 14px;
+}
+
+.pb-8{
+  padding-bottom: 2rem;
+}
+
+.pt-6{
+  padding-top: 1.5rem;
+}
+
+.pb-20{
+  padding-bottom: 5rem;
+}
+
+.text-center{
+  text-align: center;
+}
+
+.font-open-sans{
+  font-family: Open Sans, sans-serif;
+}
+
+.font-poppins{
+  font-family: Poppins, sans-serif;
+}
+
+.text-\[10px\]{
+  font-size: 10px;
+}
+
+.text-2xl{
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+
+.text-xs{
+  font-size: 0.75rem;
+  line-height: 1rem;
+}
+
+.font-bold{
+  font-weight: 700;
+}
+
+.font-semibold{
+  font-weight: 600;
+}
+
+.leading-none{
+  line-height: 1;
+}
+
+.leading-normal{
+  line-height: 1.5;
+}
+
+.text-very-dark-cyan{
+  --tw-text-opacity: 1;
+  color: hsl(192 100% 9% / var(--tw-text-opacity));
+}
+
+.text-white{
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity));
+}
+
+.shadow-button-try-mobile{
+  --tw-shadow: 0px 2px 7px 0px rgba(0, 0, 0, 0.10);
+  --tw-shadow-colored: 0px 2px 7px 0px var(--tw-shadow-color);
+  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+}
+
+.shadow-button-get-started{
+  --tw-shadow: 2px 3px 6px 1px rgba(255, 82, 193, 0.17);
+  --tw-shadow-colored: 2px 3px 6px 1px var(--tw-shadow-color);
+  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+}
+
+.transition-opacity{
+  transition-property: opacity;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 150ms;
+}
+
+.transition-colors{
+  transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 150ms;
+}
+
+.hover\:bg-inherit:hover{
+  background-color: inherit;
+}
+
+.hover\:bg-\[\#FF9ADB\]:hover{
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 154 219 / var(--tw-bg-opacity));
+}
+
+@media (min-width: 1280px){
+  .xl\:mb-\[70px\]{
+    margin-bottom: 70px;
+  }
+
+  .xl\:mb-8{
+    margin-bottom: 2rem;
+  }
+
+  .xl\:w-\[200px\]{
+    width: 200px;
+  }
+
+  .xl\:max-w-\[680px\]{
+    max-width: 680px;
+  }
+
+  .xl\:max-w-full{
+    max-width: 100%;
+  }
+
+  .xl\:max-w-\[536px\]{
+    max-width: 536px;
+  }
+
+  .xl\:flex-row{
+    flex-direction: row;
+  }
+
+  .xl\:gap-\[70px\]{
+    gap: 70px;
+  }
+
+  .xl\:rounded-3xl{
+    border-radius: 1.5rem;
+  }
+
+  .xl\:rounded-\[28px\]{
+    border-radius: 28px;
+  }
+
+  .xl\:bg-hero-desktop{
+    background-image: url('../images/bg-hero-desktop.svg');
+  }
+
+  .xl\:px-0{
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+
+  .xl\:py-\[16px\]{
+    padding-top: 16px;
+    padding-bottom: 16px;
+  }
+
+  .xl\:py-\[14px\]{
+    padding-top: 14px;
+    padding-bottom: 14px;
+  }
+
+  .xl\:py-4{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }
+
+  .xl\:py-\[18px\]{
+    padding-top: 18px;
+    padding-bottom: 18px;
+  }
+
+  .xl\:pb-\[72px\]{
+    padding-bottom: 72px;
+  }
+
+  .xl\:pt-\[50px\]{
+    padding-top: 50px;
+  }
+
+  .xl\:text-left{
+    text-align: left;
+  }
+
+  .xl\:text-sm{
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+  }
+
+  .xl\:text-\[40px\]{
+    font-size: 40px;
+  }
+
+  .xl\:text-lg{
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+  }
+
+  .xl\:shadow-button-try-desktop{
+    --tw-shadow: 0px 3px 11px 0px rgba(0, 0, 0, 0.10);
+    --tw-shadow-colored: 0px 3px 11px 0px var(--tw-shadow-color);
+    box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+  }
+
+  .xl\:hover\:opacity-70:hover{
+    opacity: 0.7;
+  }
+
+  .xl\:hover\:opacity-80:hover{
+    opacity: 0.8;
+  }
+}
